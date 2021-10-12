@@ -37,7 +37,7 @@ matplotlib==3.0.3
 mtcnn==0.0.9
 multidict==4.5.2
 numpy==1.16.3
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 pandas==0.24.2
 Pillow==6.1.0
 protobuf==3.10.0
